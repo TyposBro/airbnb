@@ -1,4 +1,4 @@
-# Awesome Project Build with TypeORM
+# Auth Server Boilerplate Build with TypeORM
 
 Steps to run this project:
 
